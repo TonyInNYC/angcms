@@ -1,0 +1,1 @@
+MEAN example created by Vinci Rufus and explained in his excellent book "AngularJS Web Application Development Blueprints - Practical Projects for the Modern Web Developer" (ISBN 978-1-78328-561-7) (http://www.amazon.com/AngularJS-Web-Application-Development-Blueprints/dp/1783285613)
